@@ -41,6 +41,7 @@
             },
             "access": {
                 "landingPage": "https://zenodo.org/record/3755200",
+                "accessURL": "https://zenodo.org/api/records/3755200/files/mca-table.h5/content",
                 "authorizations": [
                     {
                         "value": "public"
@@ -112,4 +113,5 @@
             "value": "unknown"
         }
     ]
+
 }
